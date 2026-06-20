@@ -1,2 +1,14 @@
 # leyubranch-archive
-HTML page archive and documentation
+
+静态文件发布目录
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
